@@ -6,3 +6,4 @@ Shamir Secret Sharing in Golang
 
 yesh!!war it was
 maybe
+right
